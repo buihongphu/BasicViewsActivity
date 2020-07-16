@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="editName" />
+
+    <string name="txtHob">Hobbies</string>
+    <string name="cbxreading">Reading</string>
+    <string name="cbxTrave">Travelling</string>
+    <string name="cbxCoding">Coding</string>
+    <string name="txtSex">Sex</string>
+    <string name="rdnNam">Nam</string>
+    <string name="rdnNu">Nữ</string>
+    <string name="txtNgonngu">Languages</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="switch1">You have experience with Java frameworks</string>
+    <string name="btnCan">Cancel</string>
+    <string name="btnInfo">Infomation</string>
+    <string name="todo">TODO</string>
+    <string name="editEmail" />
+
+</resources>
